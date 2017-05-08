@@ -1,0 +1,6 @@
+*.pyc
+*.cfg
+samples/
+__pycache__
+dist/
+dlms.egg-info/
